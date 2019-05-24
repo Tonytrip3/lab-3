@@ -1,0 +1,28 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^23.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonytrip3/lab-3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tonytrip3/lab-3/issues"
+  },
+  "homepage": "https://github.com/Tonytrip3/lab-3#readme"
+}
